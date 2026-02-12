@@ -151,8 +151,23 @@ Agile Scrum Training Certification
 
 ---
 
-### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/namit_jain?theme=dark&font=Baloo%202&ext=heatmap)
+## 🧠 LeetCode Dashboard
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/namit_jain?theme=dark&font=Baloo%202&ext=contest" />
+  <span>      </span>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=namit_jain&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-400%2B-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LeetCode%20Rating-1400%2B-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-Strong-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Contest-Active-green?style=for-the-badge"/>
+</p>
+
+---
+
 
 ---
 
